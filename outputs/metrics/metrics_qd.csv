@@ -1,0 +1,4 @@
+dataset,n_samples,svr_C,svr_epsilon,svr_gamma,runtime_seconds,split,rmse,mae,r2,mape
+Quarry Dust (QD),278,20.068836,0.010000,0.699826,1.1,train,1.880293,1.318425,0.986471,4.475989
+Quarry Dust (QD),278,20.068836,0.010000,0.699826,1.1,val,3.898616,2.720048,0.946856,8.389400
+Quarry Dust (QD),278,20.068836,0.010000,0.699826,1.1,test,3.970058,2.569836,0.936354,6.213579

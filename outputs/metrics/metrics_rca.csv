@@ -1,0 +1,4 @@
+dataset,n_samples,svr_C,svr_epsilon,svr_gamma,runtime_seconds,split,rmse,mae,r2,mape
+Recycled Coarse Aggregate (RCA),160,9.515153,0.046974,0.338848,0.24,train,3.306264,2.393508,0.929303,8.488387
+Recycled Coarse Aggregate (RCA),160,9.515153,0.046974,0.338848,0.24,val,7.118835,4.228539,0.710897,21.343453
+Recycled Coarse Aggregate (RCA),160,9.515153,0.046974,0.338848,0.24,test,5.094108,4.256587,0.813691,15.358175
